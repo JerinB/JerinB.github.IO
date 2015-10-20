@@ -1,0 +1,20 @@
+@import'reset.css';
+
+#page {
+	width: 75%;
+	margin: 0 auto;
+}
+
+
+header li {
+display: inline-block;
+margin: 10px;
+} 
+
+header {
+	text-align: center; 
+}
+
+body {
+	background-image: url(http://3.bp.blogspot.com/-pCUhW9PMusk/Une0eOSOkwI/AAAAAAAAEBo/iJ_MR0pnW2Y/s1600/1b+Red+TreesFINAL+enh.jpg); font-family: 'Montserrat', sans-serif; font-size: 38px;
+}
